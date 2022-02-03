@@ -16,7 +16,7 @@
 
 <hr>
 
-### Model performance metrics of Facial Mask Classification 
+### Model Performance Metrics of Facial Mask Classification 
 
 * Transfer Learning(MobileNet v2/imagenet) for facial mask classification 
 * Opencv's face detection caffe model(ssd/resnet10) for recognizing frontal faces 
