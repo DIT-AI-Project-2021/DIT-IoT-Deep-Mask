@@ -34,7 +34,7 @@
 
 <hr>
 
-### Screen Shot
+### Screenshot
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152282023-fcfd4fdd-33b4-4897-8b25-3f5b5bac85a3.jpg">
 
