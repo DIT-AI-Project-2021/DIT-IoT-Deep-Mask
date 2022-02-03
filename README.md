@@ -26,7 +26,7 @@
 <hr> 
 
 ### Things used in this project
-* Jetson nano 4G
+* Jetson nano 4G / Intel WiFi & Bluetooth module
 * Teledyne FLIR Lepton 3.0 & 3.5 Micro Thermal Camera Modules : https://www.flirkorea.com/products/lepton/
 * Raspberry Pi, Camera Module , CSI-2 with 3280 x 2464 pixels Resolution
 * Google Firebase Realtime Database : https://firebase.google.com/
