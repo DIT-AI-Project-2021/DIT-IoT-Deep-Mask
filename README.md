@@ -19,5 +19,11 @@
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152282035-16208534-4b2d-4d18-8db8-80c8dbd8bbf3.jpg">
 
+<hr>
+
+### Model performance metrics of Facial Mask Classification 
+
+<img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
+
 
 
