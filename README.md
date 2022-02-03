@@ -1,18 +1,17 @@
 # AI based COVID-19 Unmanned Entrance Control System using NVIDIA Jetson nano
 ### YouTube Video:
 
-[![Video Label](http://img.youtube.com/vi/INJaqVwoJR4/0.jpg)](https://youtu.be/INJaqVwoJR4)
-
-[![Video Label](http://img.youtube.com/vi/kuV5g9euzrI/0.jpg)](https://youtu.be/kuV5g9euzrI)
-
-<hr>
-
 ### Project outline
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152288805-4696ca50-7c8c-4e24-977a-befa3fdd1dff.JPG">
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152288811-2e7e2a5e-2f93-42ab-b32a-ab179a8ffa68.JPG">
 
+[![Video Label](http://img.youtube.com/vi/INJaqVwoJR4/0.jpg)](https://youtu.be/INJaqVwoJR4)
+
+[![Video Label](http://img.youtube.com/vi/kuV5g9euzrI/0.jpg)](https://youtu.be/kuV5g9euzrI)
+
+<hr>
 
 ### Model performance metrics of Facial Mask Classification 
 
