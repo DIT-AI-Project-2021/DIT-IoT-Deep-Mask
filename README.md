@@ -7,6 +7,15 @@
 
 <hr>
 
+### Model performance metrics of Facial Mask Classification 
+
+* Transfer Learning(MobileNet v2/imagenet) for facial mask classification 
+* Opencv's face detection caffe model(ssd/resnet10) for recognizing frontal faces 
+
+<img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
+
+<hr> 
+
 ### Screen shot:
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152282023-fcfd4fdd-33b4-4897-8b25-3f5b5bac85a3.jpg">
@@ -21,14 +30,8 @@
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152287879-e3e99457-a479-48af-a055-6f3441b975bd.jpg">
 
-<hr>
 
-### Model performance metrics of Facial Mask Classification 
 
-* Transfer Learning(MobileNet v2/imagenet) for facial mask classification 
-* Opencv's face detection caffe model(ssd/resnet10) for recognizing frontal faces 
-
-<img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
 
 
 
