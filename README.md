@@ -23,6 +23,10 @@
 
 ### Model performance metrics of Facial Mask Classification 
 
+1. 얼굴 마스크 분류를 위해 transfer learning(MobileNet v2/imagenet)을 사용하고 
+2. 얼굴 인식을 위해 opencv에서 제공하는 face detection caffe 모델(ssd/resnet10)을 사용했다. 
+3. 간단한 모델이지만 과잉적합(overfit)이 없고 성능이 뛰어나다. 좋은 훈련모델을 사용해서 서비스 구현도
+
 <img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
 
 
