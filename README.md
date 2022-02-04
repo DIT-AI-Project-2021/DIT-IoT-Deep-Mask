@@ -31,6 +31,7 @@
 * Teledyne FLIR Lepton 3.0 & 3.5 Micro Thermal Camera Modules : https://www.flirkorea.com/products/lepton/
 * Raspberry Pi, Camera Module , CSI-2 with 3280 x 2464 pixels Resolution
 * Warning Light System : https://bit.ly/3L5ZM6h
+* NodeMCU/ Ardunio Realy : https://www.nodemcu.com/index_en.html
 * Google Firebase Realtime Database : https://firebase.google.com/
 * Tensorflow 2.0, OpenCV Python 4.4
 
