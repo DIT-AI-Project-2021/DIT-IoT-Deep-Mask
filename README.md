@@ -16,7 +16,7 @@
 
 <hr>
 
-### Model Performance Metrics of Facial Mask Classification 
+### Performance Metrics of Facial Mask Classification Model
 
 * Transfer Learning for facial mask classification : MobileNet v2/ ImageNet
 * Dataset : https://github.com/prajnasb/observations
