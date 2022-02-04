@@ -18,13 +18,13 @@
 
 ### Model Performance Metrics of Facial Mask Classification 
 
-* Transfer Learning for facial mask classification(MobileNet v2/ImageNet)
+* Transfer Learning for facial mask classification : MobileNet v2/ImageNet
 * Dataset : https://github.com/prajnasb/observations
 
 <img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
 
-* OpenCV's caffe model for recognizing frontal faces(SSD/ResNet10) : 
-https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
+* OpenCV's caffe model for recognizing frontal facesn : SSD/ResNet10) 
+** https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
 <hr> 
 
 ### Things used in this project
