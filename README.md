@@ -32,7 +32,7 @@
 * Raspberry Pi, Camera Module , CSI-2 with 3280 x 2464 pixels Resolution
 * Warning Light System : https://bit.ly/3L5ZM6h
 * Google Firebase Realtime Database : https://firebase.google.com/
-* Tensorflow 2.0, OpenCV 4.4
+* Tensorflow 2.0, OpenCV Python 4.4
 
 <hr>
 
