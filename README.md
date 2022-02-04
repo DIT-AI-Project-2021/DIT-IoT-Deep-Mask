@@ -27,7 +27,7 @@
 <hr> 
 
 ### Things used in this project
-* Jetson nano 4G / Intel WiFi & Bluetooth module
+* Jetson nano 4G / Intel WiFi & Bluetooth module : https://developer.nvidia.com/embedded/jetson-nano-developer-kit
 * Teledyne FLIR Lepton 3.0 & 3.5 Micro Thermal Camera Modules : https://www.flirkorea.com/products/lepton/
 * Raspberry Pi, Camera Module , CSI-2 with 3280 x 2464 pixels Resolution
 * Warning Light System : https://bit.ly/3L5ZM6h
