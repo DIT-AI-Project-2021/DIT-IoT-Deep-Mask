@@ -20,10 +20,10 @@
 
 * Transfer Learning(MobileNet v2/Imagenet) for facial mask classification 
 * Dataset : https://github.com/prajnasb/observations
-* OpenCV's caffe model(ssd/resnet10) for recognizing frontal faces 
 
 <img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
 
+* OpenCV's caffe model(ssd/resnet10) for recognizing frontal faces 
 <hr> 
 
 ### Things used in this project
