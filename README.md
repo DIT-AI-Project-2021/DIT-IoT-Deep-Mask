@@ -23,7 +23,8 @@
 
 <img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
 
-* OpenCV's caffe model for recognizing frontal faces(SSD/ResNet10) : https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
+* OpenCV's caffe model for recognizing frontal faces(SSD/ResNet10) : 
+https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
 <hr> 
 
 ### Things used in this project
