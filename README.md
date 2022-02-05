@@ -15,6 +15,13 @@
 
 <hr>
 
+### Dataset
+* https://github.com/prajnasb/observations
+* No Mask : 667
+* With Mask : 690
+<img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
+
+
 ### Performance Metrics of Facial Mask Classification Model
 
 * Transfer Learning for facial mask classification : MobileNet v2/ ImageNet
