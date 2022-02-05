@@ -29,9 +29,9 @@
 
 <img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
 
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152645590-849ef781-a40f-4db2-90f9-48023aea67d4.png">
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152645586-488426bb-867f-4634-8cec-3ae96c22c201.png">
 
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152645590-849ef781-a40f-4db2-90f9-48023aea67d4.png">
+<img width="400" src="https://user-images.githubusercontent.com/1857075/152645590-849ef781-a40f-4db2-90f9-48023aea67d4.png">
 
 * OpenCV's caffe model(SSD/ResNet10) for recognizing frontal faces : https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
 <hr> 
@@ -57,7 +57,7 @@
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152282032-8faa7fff-7324-41a6-9a1d-92b92e7be036.jpg">
 
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152645586-488426bb-867f-4634-8cec-3ae96c22c201.png">
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152282035-16208534-4b2d-4d18-8db8-80c8dbd8bbf3.jpg">
 
 <img width="300" src="https://user-images.githubusercontent.com/1857075/152287879-e3e99457-a479-48af-a055-6f3441b975bd.jpg">
 
