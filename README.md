@@ -19,7 +19,7 @@
 * https://github.com/prajnasb/observations
 * No Mask : 667
 * With Mask : 690
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152645576-ce926148-e860-4cb8-82a4-ec0b057a7c6e.png">
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152645785-346afc0d-a2bf-476d-a18d-f40d5a5c0c0e.png">
 
 <hr>
 
