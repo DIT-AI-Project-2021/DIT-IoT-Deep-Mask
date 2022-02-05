@@ -1,5 +1,4 @@
-# AI based COVID-19 Unmanned Entrance Control System using NVIDIA Jetson nano
-
+# AI based Unmanned Entrance Control System for COVID-19
 ### Project Outline
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152288805-4696ca50-7c8c-4e24-977a-befa3fdd1dff.JPG">
