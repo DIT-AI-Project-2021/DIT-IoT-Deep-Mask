@@ -41,7 +41,7 @@
 * Warning Light System : https://bit.ly/3L5ZM6h
 * NodeMCU/ Ardunio Realy : https://www.nodemcu.com/index_en.html
 * Google Firebase Realtime Database : https://firebase.google.com/
-* Tensorflow 2.0, OpenCV Python 4.4
+* Tensorflow 2.3, OpenCV Python 4.4
 
 <hr>
 
