@@ -19,15 +19,19 @@
 * https://github.com/prajnasb/observations
 * No Mask : 667
 * With Mask : 690
-<img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152645576-ce926148-e860-4cb8-82a4-ec0b057a7c6e.png">
 
+<hr>
 
 ### Performance Metrics of Facial Mask Classification Model
 
-* Transfer Learning for facial mask classification : MobileNet v2/ ImageNet
-* Dataset : https://github.com/prajnasb/observations
+* Transfer Learning for facial mask classification : MobileNet v2
 
 <img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
+
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152645590-849ef781-a40f-4db2-90f9-48023aea67d4.png">
+
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152645590-849ef781-a40f-4db2-90f9-48023aea67d4.png">
 
 * OpenCV's caffe model(SSD/ResNet10) for recognizing frontal faces : https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
 <hr> 
