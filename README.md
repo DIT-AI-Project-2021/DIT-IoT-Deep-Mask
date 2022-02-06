@@ -23,9 +23,9 @@
 <hr>
 
 ### Dataset
-* Data Source : https://github.com/prajnasb/observations
-* Without Mask : 667
-* With Mask : 690
+* Data Source : https://github.com/prajnasb/observations + Data obtained from the Internet
+* Without Mask : 1841
+* With Mask : 1915
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152646158-df1772fb-d250-42fa-86fb-d1bc5442aa4d.jpg">
 
@@ -41,8 +41,7 @@
 <img width="350" src="https://user-images.githubusercontent.com/1857075/152664724-0b8a82d2-3fbf-422a-85b3-6b9feac1902f.png">
 <img width="410" src="https://user-images.githubusercontent.com/1857075/152670337-1770ddb7-fd00-4068-a1c2-96e17eca63cc.jpg">
 <img width="410" src="https://user-images.githubusercontent.com/1857075/152670369-fa661aaf-e079-430e-bc66-d217119ae5c2.jpg">
-<img width="460" src="https://user-images.githubusercontent.com/1857075/152645586-488426bb-867f-4634-8cec-3ae96c22c201.png">
-<img width="400" src="https://user-images.githubusercontent.com/1857075/152645590-849ef781-a40f-4db2-90f9-48023aea67d4.png">
+<img width="400" src="https://user-images.githubusercontent.com/1857075/152684496-24e80e60-d0de-45b0-88d2-17d93247bda3.png">
 
 * OpenCV's caffe model(SSD/ResNet10) for recognizing frontal faces : https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
 <hr> 
