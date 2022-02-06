@@ -63,6 +63,7 @@
 <img width="300" src="https://user-images.githubusercontent.com/1857075/152287879-e3e99457-a479-48af-a055-6f3441b975bd.jpg">
 
 <hr>
+
 ### Reference
 
 * https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
