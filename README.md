@@ -1,9 +1,10 @@
 # AI based Unmanned Entrance Control System for COVID-19 Protection
 ### Project Outline
 
-1. Facial Mask Detection
+1. Facial mask detection
 2. Measure body temperature with a thermal imaging camera
-3. Record of COVID-19 epidemiological investigation App
+3. Recording personal data on mobile apps for COVID-19 epidemiological investigation
+
 
 * If one of the three is not satisfied, warning sound is generated and entrance is blocked.
 
