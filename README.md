@@ -5,7 +5,7 @@
 2. Measure body temperature with a thermal imaging camera
 3. Recording personal data on mobile apps for COVID-19 epidemiological investigation
 
-* If all three conditions above are met, the enterance gate will open. But If one of the three is not satisfied, warning sound is generated and the entrance gate will closed automatically.
+* If all three conditions above are satified, the enterance gate will open. But If one of the three is not, warning sound is generated and the entrance gate will closed automatically.
 * Like Amazon GO, there is no need for resident personnel through unmanned automated enterence gate control.
 
 
