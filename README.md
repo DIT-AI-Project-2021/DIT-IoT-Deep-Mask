@@ -54,9 +54,8 @@
 
 ### The COVID-19 Epidemiological Investigation App
 
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152669840-99d097e7-240c-4bfa-b265-4137db16613f.jpeg">
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152669400-eef8a669-b4a0-491d-adc5-e9abb7f66ae2.png">
-
+<img width="400" src="https://user-images.githubusercontent.com/1857075/152669840-99d097e7-240c-4bfa-b265-4137db16613f.jpeg">
+<img width="350" src="https://user-images.githubusercontent.com/1857075/152669400-eef8a669-b4a0-491d-adc5-e9abb7f66ae2.png">
 
 ### Screenshots
 
