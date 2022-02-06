@@ -31,7 +31,7 @@
 
 * Transfer Learning for facial mask classification : MobileNet v2.1
 <img width="410" src="https://user-images.githubusercontent.com/1857075/152670337-1770ddb7-fd00-4068-a1c2-96e17eca63cc.jpg">
-<img width="410" src="https://user-images.githubusercontent.com/1857075/152670369-fa661aaf-e079-430e-bc66-d217119ae5c2.jpg">
+<img width="400" height="400" src="https://user-images.githubusercontent.com/1857075/152670369-fa661aaf-e079-430e-bc66-d217119ae5c2.jpg">
 <img width="400" src="https://user-images.githubusercontent.com/1857075/152645586-488426bb-867f-4634-8cec-3ae96c22c201.png"><img width="400" src="https://user-images.githubusercontent.com/1857075/152645590-849ef781-a40f-4db2-90f9-48023aea67d4.png">
 
 * OpenCV's caffe model(SSD/ResNet10) for recognizing frontal faces : https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
