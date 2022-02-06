@@ -52,7 +52,7 @@
 
 <hr>
 
-### The COVID-19 Epidemiological Investigation App
+### Mobile App for the COVID-19 Epidemiological Investigation
 
 <img width="300" src="https://user-images.githubusercontent.com/1857075/152669936-edb601c0-1c80-49c1-9a50-0c33a711754c.jpg">
 <img width="350" src="https://user-images.githubusercontent.com/1857075/152669930-197bb505-6e55-45b7-ba79-610ac9a9dec1.jpg">
