@@ -29,7 +29,7 @@
 
 ### Performance Metrics of Facial Mask Classification Model
 
-* Transfer Learning for facial mask classification : MobileNet v2
+* Transfer Learning for facial mask classification : MobileNet v2.1
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152664724-0b8a82d2-3fbf-422a-85b3-6b9feac1902f.png">
 <img width="461" src="https://github.com/DIT-AI-Project-2021/DIT-IoT-Deep-Mask/blob/master/plot.png?raw=true">
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152645586-488426bb-867f-4634-8cec-3ae96c22c201.png">
