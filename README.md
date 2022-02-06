@@ -19,6 +19,8 @@
 * Data Source : https://github.com/prajnasb/observations
 * Without Mask : 667
 * With Mask : 690
+
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152664724-0b8a82d2-3fbf-422a-85b3-6b9feac1902f.png">
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152646158-df1772fb-d250-42fa-86fb-d1bc5442aa4d.jpg">
 
 * Visualizing Data Samples
