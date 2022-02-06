@@ -42,7 +42,6 @@
 * Jetson nano 4G / Intel WiFi & Bluetooth module : https://developer.nvidia.com/embedded/jetson-nano-developer-kit
 * Teledyne FLIR Lepton 3.0 & 3.5 Micro Thermal Camera Modules : https://www.flirkorea.com/products/lepton/
 <img width="400" src="https://user-images.githubusercontent.com/1857075/152665483-f199aa47-290e-4a92-bfb0-cea1f08c7188.jpg">
-<img width="400" src="https://user-images.githubusercontent.com/1857075/152665492-f273b23e-065a-4d56-835b-26235006640d.jpg">
 
 * Raspberry Pi, Camera Module , CSI-2 with 3280 x 2464 pixels Resolution
 <img width="400" src="https://user-images.githubusercontent.com/1857075/152665492-f273b23e-065a-4d56-835b-26235006640d.jpg">
