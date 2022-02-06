@@ -62,7 +62,11 @@
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152282035-16208534-4b2d-4d18-8db8-80c8dbd8bbf3.jpg">
 <img width="300" src="https://user-images.githubusercontent.com/1857075/152287879-e3e99457-a479-48af-a055-6f3441b975bd.jpg">
 
-
+<hr>
+### Reference
+* https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+* https://github.com/prajnasb/observations
+* https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
 
 
 
