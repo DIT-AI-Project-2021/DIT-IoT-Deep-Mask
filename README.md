@@ -1,8 +1,12 @@
 # AI based Unmanned Entrance Control System for COVID-19 Protection
 ### Project Outline
 
-<img width="461" src="https://user-images.githubusercontent.com/1857075/152288805-4696ca50-7c8c-4e24-977a-befa3fdd1dff.JPG">
+1. Facial Mask Detection
+2. Measure body temperature with a thermal imaging camera
+3. Record of COVID-19 epidemiological investigation App
 
+
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152288805-4696ca50-7c8c-4e24-977a-befa3fdd1dff.JPG">
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152288811-2e7e2a5e-2f93-42ab-b32a-ab179a8ffa68.JPG">
 
 <hr>
