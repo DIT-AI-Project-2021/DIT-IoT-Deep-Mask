@@ -64,6 +64,7 @@
 
 <hr>
 ### Reference
+
 * https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
 * https://github.com/prajnasb/observations
 * https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
