@@ -1,11 +1,11 @@
 # AI based Unmanned Entrance Control System for COVID-19 Protection
 ### Project Outline
 
-1. Facial mask detection
+1. Detection of wearing a facial mask using AI
 2. Measure body temperature with a thermal imaging camera
 3. Recording personal data on mobile apps for COVID-19 epidemiological investigation
 
-* If all three conditions above are met, the enterance gate will open. But If one of the three is not satisfied, warning sound is generated and the entrance gate will closed.
+* If all three conditions above are met, the enterance gate will open. But If one of the three is not satisfied, warning sound is generated and the entrance gate will closed automatically.
 
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152288805-4696ca50-7c8c-4e24-977a-befa3fdd1dff.JPG">
