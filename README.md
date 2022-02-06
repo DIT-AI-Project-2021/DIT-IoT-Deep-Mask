@@ -6,7 +6,7 @@
 3. Recording personal data on mobile apps for COVID-19 epidemiological investigation
 
 * If all three conditions above are satisfied, the enterance gate will open. But If one of the three is not satified, the warning light and sound turns on and the entrance gate will closed automatically.
-* Like Amazon GO, there is no need for resident personnel through unmanned automated enterence gate control system.
+* Like Amazon GO, there is no need for resident personnel through unmanned automated enterence gate control system. It can also effectively prevent COVID-19.
 
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152288805-4696ca50-7c8c-4e24-977a-befa3fdd1dff.JPG">
