@@ -60,7 +60,7 @@
 
 <hr>
 
-### Screenshots
+### The Photos
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152282023-fcfd4fdd-33b4-4897-8b25-3f5b5bac85a3.jpg">
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152669390-b04d0584-3a9e-47e3-8774-ba893cb0a475.jpeg">
