@@ -20,6 +20,9 @@
 * Without Mask : 667
 * With Mask : 690
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152646158-df1772fb-d250-42fa-86fb-d1bc5442aa4d.jpg">
+* Visualizing Data
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152664417-0eeb838f-e51d-4ecc-903b-f28f3ae71eae.png">
+<img width="461" src="https://user-images.githubusercontent.com/1857075/152664483-4857809d-52dc-4f1f-bf72-f6cdea8e70c6.png">
 
 <hr>
 
