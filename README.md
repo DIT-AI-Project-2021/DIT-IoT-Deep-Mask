@@ -3,7 +3,7 @@
 
 1. Detection of wearing a facial mask using AI
 2. Measure body temperature with a thermal imaging camera
-3. Recording trace data on mobile apps for COVID-19 epidemiological investigation
+3. Recording trace data on mobile app for COVID-19 epidemiological investigation
 
 * If all three conditions above are satisfied, the enterance gate will open. But If one of the three is not satified, the alert light and sound turns on and the entrance gate will closed automatically.
 * like Amazon GO, there is no need for resident personnel. It can also effectively defend COVID-19.
