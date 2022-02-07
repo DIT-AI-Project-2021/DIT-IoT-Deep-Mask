@@ -24,7 +24,7 @@
 <hr>
 
 ### Dataset
-* Data Source : https://github.com/prajnasb/observations + Data obtained from the Internet
+* Data Source : https://github.com/prajnasb/observations + data obtained from the Internet
 * Without Mask : 1841
 * With Mask : 1915
 
