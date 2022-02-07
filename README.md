@@ -1,4 +1,4 @@
-# AI-based Automated Unmanned Entrance Control System to protect COVID-19 
+# AI-based Automated Unmanned Entrance Control System to defend COVID-19 
 ### Project Outline
 
 1. Detection of wearing a facial mask using AI
