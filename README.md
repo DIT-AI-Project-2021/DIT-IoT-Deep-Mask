@@ -7,7 +7,7 @@
 
 * If all three conditions above are satisfied, the enterance gate will open. But If one of the three is not satisfied, warning light and sound will alert and the entrance gate will closed automatically.
 * Like Amazon GO, there is no need for resident personnel. It can also effectively defend COVID-19.
-* It provide IoT powered connectivity. So new functionalitiy can be extend through the Internet connection easily.
+* It provide IoT powered connectivity. So various functionality can be easily extended through an internet connection.
 
 
 <img width="461" src="https://user-images.githubusercontent.com/1857075/152288805-4696ca50-7c8c-4e24-977a-befa3fdd1dff.JPG">
