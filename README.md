@@ -46,7 +46,7 @@
 <img width="400" src="https://user-images.githubusercontent.com/1857075/152684496-24e80e60-d0de-45b0-88d2-17d93247bda3.png">
 
 * Face Net 
-** OpenCV caffe model(SSD/ ResNet10) for recognizing frontal faces : https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
+** OpenCV caffe model(SSD/ ResNet10) for recognizing frontal faces: https://github.com/sr6033/face-detection-with-OpenCV-and-DNN
 <hr> 
 
 ### Things used in this project
