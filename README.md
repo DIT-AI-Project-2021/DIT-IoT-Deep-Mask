@@ -40,7 +40,7 @@
 
 * Facial Mask Classificaion Process
 
-<img width="480" src="https://user-images.githubusercontent.com/1857075/153112283-a2bd7a5c-2c36-450a-9eda-bb9675c5e512.JPG">
+<img width="480" src="https://user-images.githubusercontent.com/1857075/153121161-d786f3f6-ed71-45a9-89ea-88c173187609.JPG">
 
 
 * Mask Net 
