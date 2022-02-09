@@ -38,6 +38,11 @@
 
 ### Performance Metrics of Facial Mask Classification Model
 
+* Facial Mask Classificaion Process
+
+<img width="350" src="https://user-images.githubusercontent.com/1857075/153111463-bacdb7b3-e1e2-4a5b-9dc6-2d3b35ce4d24.JPG.png">
+
+
 * Mask Net 
   + Transfer Learning for facial mask classification: MobileNet v2.1
 
