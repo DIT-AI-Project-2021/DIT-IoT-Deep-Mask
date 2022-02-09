@@ -64,7 +64,7 @@
 * Raspberry Pi, Camera Module , CSI-2 with 3280 x 2464 pixels Resolution
 <img width="400" src="https://user-images.githubusercontent.com/1857075/152665492-f273b23e-065a-4d56-835b-26235006640d.jpg">
 
-* Warning Light System : https://bit.ly/3L5ZM6h
+* Warning Light & Sound System : https://bit.ly/3L5ZM6h
 * NodeMCU/ Ardunio Realy : https://www.nodemcu.com/index_en.html
 * Google Firebase Realtime Database : https://firebase.google.com/
 * Tensorflow 2.3, OpenCV Python 4.4
